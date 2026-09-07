@@ -1,0 +1,1 @@
+Este programa carga y muestra imagenes BMP con SDL2 (soporta 24 y 32 bits), mas o menos siguiendo lo mismo que hicimos en clase con TGA. Pa compilar es make y pa correr ./main; la imagen de prueba es test.bmp y si aprietas E le hace flip horizontal (espejo).
